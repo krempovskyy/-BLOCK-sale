@@ -2,6 +2,6 @@
   "name": "block-sale",
   "private": true,
   "scripts": {
-    "vercel-build": "git lfs install && git lfs pull && echo done"
+    "vercel-build": "bash vercel-build.sh"
   }
 }
